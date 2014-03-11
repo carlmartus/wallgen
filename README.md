@@ -19,3 +19,12 @@ Generators
 ![w0_colorcircle](samples/w0_colorcircle.jpg)
 ![w1_stripes](samples/w1_stripes.jpg)
 
+Preview with fehview.sh
+-----------------------
+A fast way to preview the images is to use the script supplied `fehview.sh`.
+This script requires the program feh to be installed.
+In debian based distros you can install feh with apt: `apt-get install feh`.
+To use the script just run it with one of the programs as a parametr:
+
+`./fehview.sh w1_stripes`
+
