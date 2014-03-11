@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define GRAD_ADD 0x20
+#define GRAD_ADD 0x10
 #define ADD 0x20
 #define SOLID_ADD 0x60
 #define SOLID_NEG 0x20
