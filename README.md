@@ -29,7 +29,7 @@ Preview with fehview.sh
 A fast way to preview the images is to use the script supplied `fehview.sh`.
 This script requires the program feh to be installed.
 In debian based distros you can install feh with apt: `apt-get install feh`.
-To use the script just run it with one of the programs as a parametr:
+To use the script just run it with one of the programs as a parameter:
 
 `./fehview.sh w1_stripes`
 
