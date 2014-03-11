@@ -46,9 +46,7 @@ main(int argc, char **argv)
 	for (y=0; y<sh; y++) {
 		for (x=0; x<sw; x++) {
 			struct color c = get_color(x-(sw>>1), y-(sh>>1));
-			putchar(c.r);
-			putchar(c.g);
-			putchar(c.b);
+			printf("%c%c%c", c.r, c.g, c.b);
 		}
 	}
 

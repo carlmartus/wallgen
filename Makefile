@@ -1,6 +1,6 @@
 FLAGS=-Wall -O2 -std=c99 -lm
 
-SRC=$(wildcard *.c)
+SRC=$(wildcard w*_*.c)
 APPS=$(SRC:%.c=%)
 SAMPLEDIR=samples
 SAMPLESIZE=300
