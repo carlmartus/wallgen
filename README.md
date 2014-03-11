@@ -18,6 +18,7 @@ Generators
 
 ![w0_colorcircle](samples/w0_colorcircle.jpg)
 ![w1_stripes](samples/w1_stripes.jpg)
+![w2_blocks](samples/w2_blocks.jpg)
 
 Altering image parameters
 -------------------------
