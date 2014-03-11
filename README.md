@@ -19,8 +19,8 @@ Generators
 ![w0_colorcircle](samples/w0_colorcircle.jpg)
 ![w1_stripes](samples/w1_stripes.jpg)
 
-Alterinv parameters
--------------------
+Altering image parameters
+-------------------------
 Apart from changing startup parameters extensive alterations can be done be altering the defines in each of the generators.
 The defines in the head of the .c files can be adjusted to get the right effect that you are looking for.
 
